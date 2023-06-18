@@ -8,7 +8,7 @@ I using Eclipse to write this code
 
 
 ## Why I made it?
-Actully it is my first project that I desided to upload in git. and I think first small & useful project in java (after giving up from PHP). So I made it.
+Actully it is my first project that I desided to upload in git. and I think it is small & useful project in java. So I made it.
 ## Run Locally
 
 1. you can clone this progect with git command
